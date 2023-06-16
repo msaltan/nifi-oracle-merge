@@ -1,5 +1,5 @@
 # nifi
-NiFi custom processor 
+NiFi custom oracle merge processor 
 
 #open terminal
 
