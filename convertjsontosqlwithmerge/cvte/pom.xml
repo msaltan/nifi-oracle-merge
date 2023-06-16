@@ -18,10 +18,8 @@
 
     <parent>
         <groupId>org.apache.nifi</groupId>
-        <artifactId>nifi-nar-bundles</artifactId>
-<!--        将框架生成的1.4.0版本修改为最新版本1.15.3-->
-<!--        <version>1.4.0</version>-->
-        <version>1.15.3</version>
+        <artifactId>nifi-nar-bundles</artifactId> 
+        <version>1.22.0</version>
     </parent>
 
     <groupId>com</groupId>
